@@ -4,8 +4,6 @@
 
 I'm a passionate **full-stack developer** and AI enthusiast currently pursuing **B.Tech in Computer Science & Engineering** at **Manipal University Jaipur**. I love building intelligent web applications that merge **AI and full-stack development** to solve real-world problems.  
 
-## 🔧 Tech Stack
-
 ## 🚀 Tech Stack  
 
 ### Languages  
