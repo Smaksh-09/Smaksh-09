@@ -27,7 +27,7 @@ I'm a passionate **full-stack developer** and AI enthusiast currently pursuing *
 
 ## 📫 Connect with Me
 
-🌐 [Portfolio](smaksh.tech)  
+🌐 [Portfolio](smaksh.space)  
 💼 [LinkedIn](https://linkedin.com/in/smaksh-dhawan0777)  
 🐙 [GitHub](https://github.com/Smaksh-09)  
 
